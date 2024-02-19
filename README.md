@@ -11,4 +11,11 @@ DORI (Detection - Observation - Recognition - Identification) limit calculator b
 ![Screenshot_2021-12-27_220923](https://github.com/berkbavas/DORICalculator/assets/53399385/ca87489b-98b4-4473-b18f-8602b4e579af)
 
 ## Keywords
-`C++`, `Qt 5.15.2`, `Eigen`, `OpenGL`, `GLSL`, `JSVG`, `DORI`, `CCTV Positioning`
+`C++`,
+`Qt 5.15.2`,
+`Eigen`,
+`OpenGL`,
+`GLSL`,
+`JSVG`,
+`DORI`,
+`CCTV Positioning`

@@ -1,6 +1,4 @@
-#include <Core/Controller.h>
-#include <GUI/CentralWidget.h>
-#include <OpenGL/Window3D.h>
+#include "Core/Controller.h"
 
 #include <QApplication>
 #include <QDebug>

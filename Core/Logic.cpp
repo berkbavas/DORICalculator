@@ -1,8 +1,9 @@
 #include "Logic.h"
 
-#include <Core/Constants.h>
-#include <Core/Enums.h>
-#include <Dependencies/Eigen/src/Geometry/AngleAxis.h>
+#include "Core/Constants.h"
+#include "Core/Enums.h"
+
+#include "Eigen/src/Geometry/AngleAxis.h"
 
 #include <QtDebug>
 #include <QtMath>

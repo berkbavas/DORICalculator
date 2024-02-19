@@ -2,7 +2,7 @@ QT       += core gui opengl widgets
 
 CONFIG += c++11
 
-INCLUDEPATH += Dependencies/Eigen/
+INCLUDEPATH += Dependencies
 
 SOURCES += \
     Core/Controller.cpp \
